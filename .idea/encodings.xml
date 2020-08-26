@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Catalog/ConversionMetrics.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Catalog/Transliteral.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/public/img/icons/files/file-expand_Pdf_icon-icons.com_68956.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/public/img/icons/files/file_10_icon-icons.com_68948.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/public/img/icons/files/file_5_icon-icons.com_68953.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/public/img/icons/files/folder_icon-icons.com_55318.svg" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/resources/lang/en/icons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage/app/public/Papka/test.xlsx" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/storage/app/public/test.xlsx" charset="windows-1251" />
+  </component>
+</project>
