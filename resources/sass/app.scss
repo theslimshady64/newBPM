@@ -1,0 +1,12 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+/* Change theme-colors */
+$primary: #fecf00;
+$link-color: #343a40 !default;
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
